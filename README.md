@@ -1,2 +1,2 @@
-# dio-desafio-git-primeiroreposi
-Desafio da DIO/TQI sobre github
+# Repositório do desafio sobre git/git hub da DIO/TQI
+Desafio de projeto sobre github.
